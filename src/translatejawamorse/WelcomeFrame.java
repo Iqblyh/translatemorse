@@ -3,7 +3,6 @@ package translatejawamorse;
 import AppPackage.AnimationClass;
 import java.awt.Dimension;
 import java.awt.Toolkit;
-import javafx.animation.Animation;
 
 public class WelcomeFrame extends javax.swing.JFrame {
 
@@ -23,9 +22,6 @@ public class WelcomeFrame extends javax.swing.JFrame {
        
        anim.jLabelYDown(blue.getY(), 20000, 3, 2, blue);
        
-//       anim.jLabelXRight(-500, 350, 3, 3, welcome);
-       
-//       anim.jButtonXRight(-500, 400, 3, 3, arrow); 
     }
 
     
