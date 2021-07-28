@@ -55,8 +55,9 @@ public class WelcomeFrame extends javax.swing.JFrame {
 
         welcome.setFont(new java.awt.Font("Verdana", 1, 36)); // NOI18N
         welcome.setForeground(new java.awt.Color(255, 255, 255));
-        welcome.setText("Welcome ...");
-        getContentPane().add(welcome, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 210, -1, -1));
+        welcome.setText("WELCOME");
+        getContentPane().add(welcome, new org.netbeans.lib.awtextra.AbsoluteConstraints(365, 185, 210, 50));
+        welcome.getAccessibleContext().setAccessibleName("WELCOME");
 
         arrow.setBackground(new java.awt.Color(255, 255, 255));
         arrow.setText("Mulai");
