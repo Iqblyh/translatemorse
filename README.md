@@ -1,5 +1,4 @@
-# José [translatemorse]
-Pecinta Kucing Indonesia
+# José - [Pecinta Kucing Indonesia]
 -  Project Manager:
    Reza Iqbal Pramudya        (19102083)
 
