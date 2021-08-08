@@ -1,4 +1,5 @@
 # José [translatemorse]
+Pecinta Kucing Indonesia
 -  Project Manager:
    Reza Iqbal Pramudya        (19102083)
 
@@ -14,7 +15,7 @@
    Andre Citro Febrilian L.   (19102274)
 
 # Penjelasan program
-- Aplikasi  penerjemahan  dari  bahasa Jawa ke Sandi Morse ataupun sebaliknya. Terjemahan nantinya akan di translate one to one untuk setiap hurufnya dan kata atau sandi akan otomatis diterjemahkan tanpa perlu klik tombol terjemahkan. Aplikasi ini sementara tidak memakai database melainkan memakai list.
+- Aplikasi  penerjemahan  dari  bahasa Jawa ke Sandi Morse ataupun sebaliknya. Terjemahan nantinya akan di translate one to one untuk setiap hurufnya dan kata atau sandi akan       otomatis diterjemahkan tanpa perlu klik tombol terjemahkan. Aplikasi ini sementara tidak memakai database melainkan memakai list.
 
 # Screenshot running program
 ![welcam](https://user-images.githubusercontent.com/87478316/128619437-02efc205-1fad-4a35-9bc0-8748679a16eb.PNG)
